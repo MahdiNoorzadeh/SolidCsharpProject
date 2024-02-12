@@ -1,0 +1,14 @@
+D:\Users\roach\source\repos\SRP2\SRP2\bin\Debug\net8.0\SRP2.exe
+D:\Users\roach\source\repos\SRP2\SRP2\bin\Debug\net8.0\SRP2.deps.json
+D:\Users\roach\source\repos\SRP2\SRP2\bin\Debug\net8.0\SRP2.runtimeconfig.json
+D:\Users\roach\source\repos\SRP2\SRP2\bin\Debug\net8.0\SRP2.dll
+D:\Users\roach\source\repos\SRP2\SRP2\bin\Debug\net8.0\SRP2.pdb
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\SRP2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\SRP2.AssemblyInfoInputs.cache
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\SRP2.AssemblyInfo.cs
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\SRP2.csproj.CoreCompileInputs.cache
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\SRP2.dll
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\refint\SRP2.dll
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\SRP2.pdb
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\SRP2.genruntimeconfig.cache
+D:\Users\roach\source\repos\SRP2\SRP2\obj\Debug\net8.0\ref\SRP2.dll
